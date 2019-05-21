@@ -23,3 +23,6 @@ Thor's strength, endurance, and quest for battle are far greater than his Asgard
 ---
 **Weaknesses:**
 He can be beaten and even killed by something that’s stronger than him, or trickier than him (like magic). He operates on a level between man and Mangog, so tailor the threat to that level and it’s a fight.
+
+---
+### This is a random change.
