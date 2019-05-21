@@ -6,7 +6,7 @@
 ***THOR ODINSON***
 
 ---
-### Thor is the strongest.
+### Thor is the strongest!!!
 
 ---
 ##### The hammer-wielding god associated with thunder, lightning, storms, oak trees, strength.
