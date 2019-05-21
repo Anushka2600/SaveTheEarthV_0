@@ -1,15 +1,19 @@
 # SaveTheEarth
 ## Spider Task 0
 ## This is Task V_1
-### My favorite Avenger is THOR.
 
 
 ***THOR ODINSON***
 
+---
+### Thor is the strongest.
+
+---
 ##### The hammer-wielding god associated with thunder, lightning, storms, oak trees, strength.
+
 ---
 **Character Biography:**
-Thor Odinson is a superhero appearing in Marvel Series. The character, which is based on the Norse deity of the same name, is the Asgardian god of thunder who possesses the enchanted hammer, Mjolnir, which grants him the ability to fly and manipulate weather amongst his other superhuman attributes.
+Thor (Thor Odinson) is a superhero appearing in Marvel Series. The character, which is based on the Norse deity of the same name, is the Asgardian god of thunder who possesses the enchanted hammer, Mjolnir, which grants him the ability to fly and manipulate weather amongst his other superhuman attributes.
  Unlike his comic book version, however, MCU Thor has no superhero "alter ego".
 
 ---
